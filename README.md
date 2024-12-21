@@ -16,9 +16,15 @@ retrieving user details, updating user information, and deleting users from the 
 
 🔗Features:
 User Creation: Allows the creation of new users with essential details such as name, email, and password.
+
 User Retrieval: Fetches user details by their unique ID or retrieves a list of all users.
+
 User Update: Allows modifications to the user data, such as updating profile information.
+
 User Deletion: Enables the removal of users from the system.
-Why use Docker?
-Containerization: Ensures that the API and PostgreSQL database run smoothly in isolated containers, making it easy to set up and scale.
-Consistency: Docker ensures the same environment is used across development, testing, and production.
+
+➡️Why use Docker?
+
+🟡Containerization: Ensures that the API and PostgreSQL database run smoothly in isolated containers, making it easy to set up and scale.
+
+🟡Consistency: Docker ensures the same environment is used across development, testing, and production.
